@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🧰 I Build with: `Azure`, `Microsoft Sentinel`, `Powershell` 
+🧰 I Build with: `Azure`, `Microsoft Sentinel`, and `Powershell` 
  
  🔭 Career Status: **I.T Administrator at Floor & Decor**
  
- 🧠 Currently learning: `Red Hat Enterprise Linux` and `Ansible`
+ 🧠 Currently learning: `Red Hat Enterprise Linux`, and `Ansible`
 
  <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
