@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🧰 I Build with: ** `Python`, `Jupyter Notebooks`, `SQL` **
+🧰 I Build with: ** `Azure`, `Microsoft Sentinel`, `Powershell` **
  
- 🔭 Career Status: **Looking for entry level Cyber Analyst roles**
+ 🔭 Career Status: **I.T Administrator**
  
- 🧠 Currently learning: **`AWS Cloud`, `Splunk`, `Solarwinds`**
+ 🧠 Currently learning: **`CentOS Linux`, `Ansible`**
 
  <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:michaelkamorra@gmail.com">
+  <a href="mailto:mikezapata505@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/mikekamorra" target="_blank">
