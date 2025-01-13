@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🧰 I Build with: ** `Azure`, `Microsoft Sentinel`, `Powershell` **
+🧰 I Build with: `Azure`, `Microsoft Sentinel`, `Powershell` 
  
  🔭 Career Status: **I.T Administrator**
  
