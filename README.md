@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=800&height=70&duration=4000&lines=I'M+MIKE+ZAPATA+👋🏾;Cyber+Security+Enthusiast;" />
 </h1>
 
-<h3 align="center">Cyber Security Analyst from Brookyln, New York 🗽 </h3>
+<h3 align="center">Born and bred (pun intended) Thin Slice Defender from New York 🗽 </h3>
 
 <br/>
 
