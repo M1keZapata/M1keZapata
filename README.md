@@ -10,13 +10,13 @@
 
 🧰 I Build with: `Azure`, `Microsoft Sentinel`, `Powershell` 
  
- 🔭 Career Status: **I.T Administrator**
+ 🔭 Career Status: **I.T Administrator at Floor & Decor**
  
- 🧠 Currently learning: **`CentOS Linux`, `Ansible`**
+ 🧠 Currently learning: `CentOSLinux` and `Ansible`
 
  <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
- 💭 **"If the plural of Goose is Geese, why is the plural of Moose not Meese?"**
+ 💭: "If the plural of Goose is Geese, why is the plural of Moose not Meese?"
  
  </div>
  
