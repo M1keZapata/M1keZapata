@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🧰 I Build with: `Azure`, `Microsoft Sentinel`, and `Powershell` 
+🧰 I Build with: `Azure`, `Okta`, and `CyberArk` 
  
- 🔭 Career Status: **I.T Administrator at Floor & Decor**
+ 🔭 Career Status: **IAM Security Analyst at Floor & Decor**
  
- 🧠 Currently learning: `Red Hat Enterprise Linux`, and `Ansible`
+ 🧠 Currently learning: `Sailpoint `
 
  <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
