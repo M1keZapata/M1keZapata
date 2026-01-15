@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=800&height=70&duration=4000&lines=I'M+MIKE+ZAPATA+👋🏾;Cyber+Security+Enthusiast;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F7552C&size=42&center=true&vCenter=true&width=800&height=70&duration=4000&lines=I'M+MIKE+ZAPATA+👋🏾;DevOps+Engineer;" />
 </h1>
 
 <h3 align="center">Born and bred Thin Slice Pizza Defender from New York 🗽 </h3>
@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🧰 I Build with: `Azure`, `Okta`, and `CyberArk` 
+🧰 I Build with: `Azure`, `Terraform`, and `Kubernetes` 
  
- 🔭 Career Status: **IAM Security Analyst at Floor & Decor**
+ 🔭 Career Status: **Cloud Support Specialist at Floor & Decor**
  
- 🧠 Currently learning: `Sailpoint `
+ 🧠 Currently learning: `Docker `
 
  <!-- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)** -->
 
